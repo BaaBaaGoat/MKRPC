@@ -13,3 +13,11 @@
 5. use it like using a python client of KRPC.
 6. KRPC_recorder.m is a demo which records the flight params of the active vessel(the rocket you're operating) to Log.csv
 
+## SAM demo
+
+1. missile and aircraft files are in **SHIPS** folder
+2. fly the aircraft to ~4km away from the missile
+3. switch to the missile,run the simulation file in **simulink\missile.slx**
+4. ignite the solid rocket of missile
+5. then the missile will track the target automaticly
+
